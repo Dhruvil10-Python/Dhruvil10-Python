@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python Developer 🐍 | Building cool things, one line at a time 🚀 <br>🧠 Curious mind. Creative thinker.<br>Forever learning.<br>
+Python Developer 🐍 | Building cool things, one line at a time 🚀 <br>🧠 Curious mind. Creative thinker.Forever learning.<br>
 🎯 Code. Create. Debug. Repeat.
 
 
