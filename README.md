@@ -1,5 +1,6 @@
 # 💫 About Me:
-i am currently working on ai facial recognition on  bulk image <br>pursuing my MSC in it 
+Python Developer 🐍 | Building cool things, one line at a time 🚀 <br>🧠 Curious mind. Creative thinker.<br>Forever learning.<br>
+🎯 Code. Create. Debug. Repeat.
 
 
 ## 🌐 Socials:
